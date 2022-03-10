@@ -10,3 +10,13 @@ All rights, including copyright, in the content of the original articles are own
 
 Contact Derek Greene <derek.greene@ucd.ie> for further information.
 http://mlg.ucd.ie/datasets/bbc.html
+## Functionalities of the code
+1. Extracts the raw text from bbc_news_dataset.zip file and converts it into bbc.csv file
+2. Pre-processes the data by lowercase conversion, removal of stopwords, removal of punctuations, and lemmatization
+3. Split the data into train/development/test - 80%/10%/10%
+4. Three feature entities are used - count, one-hot and tf-idf
+5. For every feature entity number of features and feature selection methods are tuned using development set
+6. For each feature entity a model is trained
+7. Each model make predictions on test dataset
+8. All 3 predictions are combined using majority voting
+9. Accuracy, macro-averaged precision, macro-averaged recall, macro-averaged f1-score are calculated
