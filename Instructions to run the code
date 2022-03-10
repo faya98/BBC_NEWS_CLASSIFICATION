@@ -1,1 +1,9 @@
+Follow the below instructions to execute the code:
 
+1. Open Google Colab - https://colab.research.google.com/
+2. Sign into your gmail account, if not signed in already.
+3. Upload the 'bbc_news_classification.ipynb' file to Google Colab. Once uploaded, the file opens automatically.
+(Note: instead of the above 3 steps, the code can be directly opened in the google colab using the link provided on top of the code in bbc_news_classification.ipynb)
+4. Either press Ctrl + F9 to run the code or choose 'Runtime' from the options available on top of the page and then click 'Run all'.
+5. Once the first cell is executed, the second cell asks to choose files from the device. Click 'Choose Files' and upload the 'bbc_news_dataset.zip' file provided as it is. No need to modify this zip file as the code itself would extract the bbc folder after unzipping it.
+6. Once the zip file is uploaded successfully, the remaining code gets executed completely and provides desired results.
