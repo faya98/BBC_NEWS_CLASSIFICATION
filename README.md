@@ -78,5 +78,7 @@ This will run three files 'dataserver.py', 'combine.py', and 'cameraCodeVideo.py
 This will run three files 'dataserver.py', 'combine.py', and 'cameraCodeLiveStream.py'.
 
 ## Sample Output for capturing live occupancy in a room
-<img src="https://media.giphy.com/media/nhZtxM3vwuRgpcAQAI/giphy.gif" alt="People count" class="center">
+<img src="https://media.giphy.com/media/nhZtxM3vwuRgpcAQAI/giphy.gif" alt="People count" width="100%">
+
+
 
