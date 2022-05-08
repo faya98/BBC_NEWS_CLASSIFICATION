@@ -77,5 +77,4 @@ This will run three files 'dataserver.py', 'combine.py', and 'cameraCodeVideo.py
 
 This will run three files 'dataserver.py', 'combine.py', and 'cameraCodeLiveStream.py'.
 
-
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/9lt3Kxc0dm0GrVatJz" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/9lt3Kxc0dm0GrVatJz">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/nhZtxM3vwuRgpcAQAI/giphy.gif" alt="People count">
