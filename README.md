@@ -80,4 +80,4 @@ This will run three files 'dataserver.py', 'combine.py', and 'cameraCodeLiveStre
 ## Sample Output for capturing live occupancy in a room
 <img src="https://media.giphy.com/media/nhZtxM3vwuRgpcAQAI/giphy.gif" alt="People count" class="center">
 
-![image](https://drive.google.com/uc?export=view&id=1TqPS8Cr-_PPBs4V5jick_kWm-NH0xDav)
+![image](https://drive.google.com/uc?export=view&id=18UTg66OFzyQMt0ywersqvS98wJtBq6zT)
