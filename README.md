@@ -21,10 +21,10 @@ http://mlg.ucd.ie/datasets/bbc.html
 8. All 3 predictions are combined using majority voting
 9. Accuracy, macro-averaged precision, macro-averaged recall, macro-averaged f1-score are calculated
 
-# IoT Device:
+# IoT Device
 
-## Building the device:
-### Requirements:
+## Building the device
+### Requirements
 1. Raspberry Pi 4 Computer Model B 4GB RAM
 2. GrovePi+
 3. Pi Camera
@@ -32,7 +32,7 @@ http://mlg.ucd.ie/datasets/bbc.html
 5. Grove - Light Sensor
 6. Grove - Sound Sensor
 
-### Connections:
+### Connections
 1. Connect Pi camera to the camera module port in raspberry Pi (<i>refer</i> - https://projects.raspberrypi.org/en/projects/getting-started-with-picamera)
 2. Connect GrovePi+ to the raspberry Pi (<i>refer</i> - https://www.dexterindustries.com/GrovePi/get-started-with-the-grovepi/#:~:text=(note%3A%20if%20you%20don',will%20turn%20on%20the%20GrovePi.)
 3. Connect temperature and humidity sensor to port D7 in grovepi+.
@@ -73,7 +73,7 @@ This will run three files 'dataserver.py', 'combine.py', and 'cameraCodeVideo.py
 
 ### Executing the code for livestream video input
 1. Open the directory terminal.
-2. Run command: <code><i>./StartProgrammeLiveStream.sh</i><code>
+2. Run command: <code><i>./StartProgrammeLiveStream.sh</i></code>
 
 This will run three files 'dataserver.py', 'combine.py', and 'cameraCodeLiveStream.py'.
 
