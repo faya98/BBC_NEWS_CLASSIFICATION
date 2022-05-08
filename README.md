@@ -40,7 +40,7 @@ http://mlg.ucd.ie/datasets/bbc.html
 5. Connect light sensor to port A1 in grovepi+.
 
 After making the connections, the device will look like
-<img src="https://giphy.com/gifs/MhlYIzoKhQvyZ65jV4" alt="People count" class="center">
+<img src="https://giphy.com/gifs/8yFOREyjmKdGtMGzol/tile" alt="People count" class="center">
 
 ## Installation
 Onto the ceiling, close to the room door, with the camera facing the region where people have to cross through for entering and exiting a room
