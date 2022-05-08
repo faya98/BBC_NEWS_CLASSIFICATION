@@ -40,7 +40,7 @@ http://mlg.ucd.ie/datasets/bbc.html
 5. Connect light sensor to port A1 in grovepi+.
 
 After making the connections, the device will look like
-<iframe src="https://giphy.com/embed/9lt3Kxc0dm0GrVatJz" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/9lt3Kxc0dm0GrVatJz">via GIPHY</a></p>
+<img src="https://giphy.com/embed/9lt3Kxc0dm0GrVatJz" alt="IoT Device" width="100%">
 
 ## Installation
 Onto the ceiling, close to the room door, with the camera facing the region where people have to cross through for entering and exiting a room
@@ -76,8 +76,5 @@ This will run three files 'dataserver.py', 'combine.py', and 'cameraCodeVideo.py
 2. Run command: <code><i>./StartProgrammeLiveStream.sh</i></code>
 
 This will run three files 'dataserver.py', 'combine.py', and 'cameraCodeLiveStream.py'.
-
-
-
 
 
