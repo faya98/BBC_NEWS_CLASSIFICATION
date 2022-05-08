@@ -40,7 +40,7 @@ http://mlg.ucd.ie/datasets/bbc.html
 5. Connect light sensor to port A1 in grovepi+.
 
 After making the connections, the device will look like
-<img src="https://giphy.com/embed/9lt3Kxc0dm0GrVatJz" alt="IoT Device" width="100%">
+<img src="https://giphy.com/gifs/MhlYIzoKhQvyZ65jV4" alt="People count" class="center">
 
 ## Installation
 Onto the ceiling, close to the room door, with the camera facing the region where people have to cross through for entering and exiting a room
@@ -56,7 +56,7 @@ This file is made as a local server to fetch the sensor values from camera and t
 This file includes modules that read the values from temperature-humidity sensor, light sensor, and sound sensor. Combines all the values and sends to the dataserver.py.
 
 ### cameraCodeVideo.py
-Reading the recorded video and processing the count of people inside the room (by calculating the number of people who have entered and exited) is done in this file. Further this count will be passed to the dataserver.py.
+Reading the recorded video and processing the count of people inside the room (by calculating the number of people who have entered and exited) is done in this file. Further this count will be passed to the dataserver.py. 
 
 ### cameraCodeLiveStream.py
 Reading the livestream video and processing the count of people inside the room (by calculating the number of people who have entered and exited) is done in this file. Further this count will be passed to the dataserver.py.
@@ -77,4 +77,7 @@ This will run three files 'dataserver.py', 'combine.py', and 'cameraCodeVideo.py
 
 This will run three files 'dataserver.py', 'combine.py', and 'cameraCodeLiveStream.py'.
 
-<img src="https://media.giphy.com/media/nhZtxM3vwuRgpcAQAI/giphy.gif" alt="People count">
+## Sample Output for capturing live occupancy in a room
+<img src="https://media.giphy.com/media/nhZtxM3vwuRgpcAQAI/giphy.gif" alt="People count" class="center">
+
+
