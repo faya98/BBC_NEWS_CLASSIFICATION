@@ -40,7 +40,7 @@ http://mlg.ucd.ie/datasets/bbc.html
 5. Connect light sensor to port A1 in grovepi+.
 
 After making the connections, the device will look like
-<img src="https://media4.giphy.com/media/8yFOREyjmKdGtMGzol/giphy.gif?cid=790b7611a1a38206cdcda4c0ed7a2d0e7f50346217965f11&rid=giphy.gif&ct=g.gif" alt="People count" class="center">
+![image](https://drive.google.com/uc?export=view&id=1NaRAIrBsq5L3t7OW54lPqOfULCWkHwwg)
 
 ## Installation
 Onto the ceiling, close to the room door, with the camera facing the region where people have to cross through for entering and exiting a room
@@ -80,6 +80,3 @@ This will run three files 'dataserver.py', 'combine.py', and 'cameraCodeLiveStre
 ## Sample Output for capturing live occupancy in a room
 <img src="https://media.giphy.com/media/nhZtxM3vwuRgpcAQAI/giphy.gif" alt="People count" class="center">
 
-![image](https://drive.google.com/uc?export=view&id=1NaRAIrBsq5L3t7OW54lPqOfULCWkHwwg)
-
-https://drive.google.com/file/d/1NaRAIrBsq5L3t7OW54lPqOfULCWkHwwg/view?usp=sharing
